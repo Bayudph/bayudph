@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Isu Prioritas Presidensi G20 
+title: MoF-Dac Quest 2022 "Priority Issue of G20 Presidency" 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+The dataset contains a list of World Development Indicator dataset like GDP, birthrate and energy consumption since 50 years ago. I also added dataset of Covid-19 cases in Indonesia between 2020 - 2021.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
