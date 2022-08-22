@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sentiment Analysis For Customer Satisfaction
+title: Sentiment Analysis From Social Media
 date: 2022-08-01
 ---
 This dataset comes from YouTube's comment thread, i need to connect data from YouTube API to Python before doing visualization with Google Data Studio. With this project it can be seen that there are a positive and negative comment also any related topics from video channel YouTube
