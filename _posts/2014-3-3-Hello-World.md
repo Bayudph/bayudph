@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MoF-Dac Quest 2022 "Priority Issue of G20 Presidency" 
+date: 2022-08-20
 ---
 
 The dataset contains a list of World Development Indicator dataset like GDP, birthrate and energy consumption since 50 years ago. I also added dataset of Covid-19 cases in Indonesia between 2020 - 2021.
