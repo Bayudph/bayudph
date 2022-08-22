@@ -12,4 +12,4 @@ reading and sports
 
 ### Contact me
 
-[bayudwiputrahutabarrat@gmail.com](mailto:bayudwiputrahutabarat@gmail.com)
+[bayudwiputrahutabarat@gmail.com](mailto:bayudwiputrahutabarat@gmail.com)
