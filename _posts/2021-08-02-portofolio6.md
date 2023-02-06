@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quality Control Circle (QCC) Paper
-date: 2021-08-01
+date: 2021-08-02
 ---
 
 The purpose of this Quality Control Circle is to explore ways to reduce the lead time in creating strategic reports for projects. 
