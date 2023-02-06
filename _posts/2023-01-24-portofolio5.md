@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Quality Control Circle (QCC) Paper
-date: 2021-08-02
+title: Optimization System Of Maintenance Training 
+date: 2023-01-31
 ---
 
-The purpose of this Quality Control Circle is to explore ways to reduce the lead time in creating strategic reports for projects. The current lead time for these reports is a major concern for many organizations, as it can negatively impact project efficiency and effectiveness. Through a comprehensive analysis of best practices, the QCC team has identified several key areas for improvement, including streamlining report-making processes, improving communication and collaboration between teams, and utilizing technology to automate time-consuming tasks. The results of this study will provide valuable insights for organizations looking to reduce lead time in making project strategic reports and achieve greater success in their projects.
+The aim of this project is to introduce an optimization system for maintenance training using the principles of Lean Six Sigma methodology. The system focuses on streamlining the training process to improve efficiency, reduce waste and increase the overall effectiveness of maintenance training programs. Through the implementation of Lean Six Sigma tools and techniques, this optimization system aims to provide a data-driven approach to maintenance training, resulting in improved quality and increased customer satisfaction
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9Rdmah1xxmEQqPYEg0vsDRbq8z0quQye4aT8JlFVvhXZAj9lfDvT6pG9DQDCFrO7bug-aO03q1mLr/embed?start=true&loop=true&delayms=3000" frameborder="0" width="793" height="1152" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0sqQQFZdWjthCanjVX3VIJIoTeWF_GC-TQDisa0vSaSk37W7s5DrC_M2EVUxHPkaJGMIxEAYclwMZ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
