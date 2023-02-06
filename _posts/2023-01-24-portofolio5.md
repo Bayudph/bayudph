@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Optimization System Of Maintenance Training
-date: 2023-01-24
+title: Quality Control Circle (QCC) Paper
+date: 2022-08-02
 ---
 
-The "Optimization System of Maintenance Training" project aims to address the problem of low effectiveness in maintenance training. The current issue is that there is no system in place for tracking and evaluating training performance in 2022. Through this project, we will implement an optimization system that will not only track training progress, but also evaluate the effectiveness of the training in order to identify areas of improvement. By doing so, we hope to increase the effectiveness of maintenance training and ultimately improve the overall performance of the maintenance team. To achieve this, we will work closely with the maintenance team to gather their input and ensure that the system is tailored to their specific needs.
+The purpose of this Quality Control Circle paper is to explore ways to reduce the lead time in creating strategic reports for projects. The current lead time for these reports is a major concern for many organizations, as it can negatively impact project efficiency and effectiveness. Through a comprehensive analysis of best practices, the QCC team has identified several key areas for improvement, including streamlining report-making processes, improving communication and collaboration between teams, and utilizing technology to automate time-consuming tasks. The results of this study will provide valuable insights for organizations looking to reduce lead time in making project strategic reports and achieve greater success in their projects.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR0sqQQFZdWjthCanjVX3VIJIoTeWF_GC-TQDisa0vSaSk37W7s5DrC_M2EVUxHPkaJGMIxEAYclwMZ/embed?start=true&loop=true&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT9Rdmah1xxmEQqPYEg0vsDRbq8z0quQye4aT8JlFVvhXZAj9lfDvT6pG9DQDCFrO7bug-aO03q1mLr/embed?start=true&loop=true&delayms=3000" frameborder="0" width="793" height="1152" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
