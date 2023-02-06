@@ -1,5 +1,3 @@
-2021-08-02-portofolio6.md
-
 ---
 layout: post
 title: Quality Control Circle (QCC) Paper
