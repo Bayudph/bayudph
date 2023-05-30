@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-More than 8 years of experience in fixed plant maintenance and mining operations and able to compliance
+More than 9 years of experience in fixed plant maintenance and mining operations and able to compliance
 
 ### More Information
 
